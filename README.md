@@ -35,3 +35,65 @@ A comprehensive fraud detection system built with Python and Machine Learning, f
    ```bash
    git clone https://github.com/yourusername/fraud-detection-system.git
    cd fraud-detection-system
+
+
+
+Required 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+fraud_detection_env/
+venv/
+env/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files (optional - include if you want to share trained models)
+models/*.pkl
+models/*.joblib
+
+# Data files (optional - exclude sensitive data)
+data/*.csv
+data/*.xlsx
+uploads/
+
+# Temporary files
+temp/
+tmp/
