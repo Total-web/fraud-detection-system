@@ -1,4 +1,4 @@
-# 🔍 Smart Transaction Monitor
+# Cyber Guard Nepal
 
 **AI-Powered Fraud Detection System with Investigation Management**
 
