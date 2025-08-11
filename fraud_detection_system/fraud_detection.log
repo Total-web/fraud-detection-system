@@ -1,0 +1,133 @@
+2025-08-11 13:39:22,371 - INFO - Initialized Isolation Forest model
+2025-08-11 13:39:22,372 - INFO - Feedback processor started
+2025-08-11 13:39:22,372 - INFO - Initialized Isolation Forest model
+2025-08-11 13:39:23,379 - WARNING - Model file not found: /home/cyberguard/Desktop/CyberGuard/fraud_detection_system/models/fraud_detector_current.pkl
+2025-08-11 13:39:23,380 - INFO - Application initialized successfully
+2025-08-11 13:57:22,952 - INFO - Selected file: /home/cyberguard/Desktop/CyberGuard/fraud_detection_system/ sample_transactions.csv
+2025-08-11 13:57:24,476 - INFO - File validation successful: 50 transactions
+2025-08-11 13:57:32,077 - INFO - Model saved to /home/cyberguard/Desktop/CyberGuard/fraud_detection_system/models/fraud_detector_v1.0.pkl
+2025-08-11 13:57:32,077 - INFO - Unsupervised model trained on 50 samples
+2025-08-11 13:57:35,951 - ERROR - Analysis error: Expected 2D array, got 1D array instead:
+array=[0.26268667 0.35320818 0.58333333 0.         1.         1.
+ 0.049981  ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+2025-08-11 14:07:25,824 - INFO - Initialized Isolation Forest model
+2025-08-11 14:07:25,825 - INFO - Feedback processor started
+2025-08-11 14:07:25,825 - INFO - Initialized Isolation Forest model
+2025-08-11 14:07:26,382 - INFO - Model loaded from /home/cyberguard/Desktop/CyberGuard/fraud_detection_system/models/fraud_detector_current.pkl
+2025-08-11 14:07:26,383 - INFO - Application initialized successfully
+2025-08-11 14:07:32,406 - INFO - Selected file: /home/cyberguard/Desktop/CyberGuard/fraud_detection_system/ sample_transactions.csv
+2025-08-11 14:07:35,683 - INFO - File validation successful: 50 transactions
+2025-08-11 14:07:44,761 - INFO - Analysis completed: 50 transactions, 5 anomalies detected
+2025-08-11 14:08:08,697 - INFO - Analysis completed: 50 transactions, 5 anomalies detected
+2025-08-11 14:08:13,049 - INFO - Analysis completed: 50 transactions, 5 anomalies detected
+2025-08-11 14:10:12,966 - ERROR - Sample data generation error: 'a' and 'p' must have same size
+2025-08-11 14:12:47,801 - ERROR - Sample data generation error: 'a' and 'p' must have same size
+2025-08-11 14:14:49,517 - INFO - Initialized Isolation Forest model
+2025-08-11 14:14:49,519 - INFO - Feedback processor started
+2025-08-11 14:14:49,519 - INFO - Initialized Isolation Forest model
+2025-08-11 14:14:50,049 - INFO - Model loaded from /home/cyberguard/Desktop/CyberGuard/fraud_detection_system/models/fraud_detector_current.pkl
+2025-08-11 14:14:50,179 - INFO - Application initialized successfully
+2025-08-11 14:15:08,699 - INFO - Selected file: /home/cyberguard/Desktop/CyberGuard/fraud_detection_system/ sample_transactions.csv
+2025-08-11 14:15:11,547 - INFO - File validation successful: 50 transactions
+2025-08-11 14:15:17,579 - INFO - Analysis completed: 50 transactions, 5 anomalies detected
+2025-08-11 14:17:48,656 - INFO - Analysis completed: 50 transactions, 5 anomalies detected
+2025-08-11 14:19:16,687 - INFO - Feedback queued for transaction T0006: correct
+2025-08-11 14:19:21,145 - INFO - Feedback queued for transaction T0003: correct
+2025-08-11 14:19:27,269 - INFO - Feedback queued for transaction T0042: correct
+2025-08-11 14:19:29,552 - INFO - Feedback queued for transaction T0045: correct
+2025-08-11 14:19:35,905 - INFO - Feedback queued for transaction T0050: correct
+2025-08-11 14:19:39,056 - INFO - Feedback queued for transaction T0035: incorrect
+2025-08-11 14:19:54,168 - INFO - Feedback queued for transaction T0040: correct
+2025-08-11 14:24:28,924 - INFO - Initialized Isolation Forest model
+2025-08-11 14:24:28,926 - INFO - Feedback processor started
+2025-08-11 14:24:29,474 - INFO - Model loaded from /home/cyberguard/Desktop/CyberGuard/fraud_detection_system/models/fraud_detector_current.pkl
+2025-08-11 14:24:29,604 - INFO - Application initialized successfully
+2025-08-11 14:24:37,532 - INFO - Generated 200 sample transactions
+2025-08-11 14:24:46,844 - INFO - Analysis completed: 200 transactions, 116 anomalies detected
+2025-08-11 14:24:51,177 - INFO - Analysis completed: 200 transactions, 116 anomalies detected
+2025-08-11 14:24:51,662 - INFO - Analysis completed: 200 transactions, 116 anomalies detected
+2025-08-11 14:25:03,024 - INFO - Feedback queued for transaction T0107: correct
+2025-08-11 14:25:05,587 - INFO - Feedback queued for transaction T0183: correct
+2025-08-11 14:25:08,585 - INFO - Feedback queued for transaction T0184: correct
+2025-08-11 14:25:11,050 - INFO - Feedback queued for transaction T0186: correct
+2025-08-11 14:25:13,577 - INFO - Feedback queued for transaction T0187: correct
+2025-08-11 14:25:19,823 - INFO - Feedback queued for transaction T0190: correct
+2025-08-11 14:25:22,099 - INFO - Feedback queued for transaction T0193: correct
+2025-08-11 14:25:31,676 - INFO - Feedback queued for transaction T0006: correct
+2025-08-11 14:25:33,240 - INFO - Feedback queued for transaction T0010: correct
+2025-08-11 14:25:35,671 - INFO - Feedback queued for transaction T0023: correct
+2025-08-11 14:25:46,887 - INFO - Feedback queued for transaction T0035: correct
+2025-08-11 14:25:54,693 - INFO - Initialized Isolation Forest model
+2025-08-11 14:25:54,760 - INFO - Model loaded from /home/cyberguard/Desktop/CyberGuard/fraud_detection_system/models/fraud_detector_current.pkl
+2025-08-11 14:25:54,764 - ERROR - Retraining failed: 'AnomalyDetector' object has no attribute 'train_supervised'
+2025-08-11 14:29:17,531 - INFO - Initialized Isolation Forest model
+2025-08-11 14:29:17,532 - INFO - Feedback processor started
+2025-08-11 14:29:18,064 - INFO - Model loaded from /home/cyberguard/Desktop/CyberGuard/fraud_detection_system/models/fraud_detector_current.pkl
+2025-08-11 14:29:18,164 - INFO - Application initialized successfully
+2025-08-11 14:29:29,842 - INFO - Generated 200 sample transactions
+2025-08-11 14:29:36,075 - INFO - Analysis completed: 200 transactions, 116 anomalies detected
+2025-08-11 14:29:58,017 - INFO - Feedback queued for transaction T0107: correct
+2025-08-11 14:29:59,802 - INFO - Feedback queued for transaction T0183: correct
+2025-08-11 14:30:00,905 - INFO - Feedback queued for transaction T0184: correct
+2025-08-11 14:30:02,065 - INFO - Feedback queued for transaction T0186: correct
+2025-08-11 14:30:03,385 - INFO - Feedback queued for transaction T0187: correct
+2025-08-11 14:30:04,624 - INFO - Feedback queued for transaction T0190: correct
+2025-08-11 14:30:05,776 - INFO - Feedback queued for transaction T0193: correct
+2025-08-11 14:30:08,641 - INFO - Feedback queued for transaction T0006: correct
+2025-08-11 14:30:09,737 - INFO - Feedback queued for transaction T0009: correct
+2025-08-11 14:30:11,265 - INFO - Feedback queued for transaction T0010: correct
+2025-08-11 14:30:14,401 - INFO - Initialized Isolation Forest model
+2025-08-11 14:30:14,479 - INFO - Model loaded from /home/cyberguard/Desktop/CyberGuard/fraud_detection_system/models/fraud_detector_current.pkl
+2025-08-11 14:30:14,952 - INFO - Model saved to /home/cyberguard/Desktop/CyberGuard/fraud_detection_system/models/fraud_detector_v2.0_20250811_143014.pkl
+2025-08-11 14:30:14,953 - INFO - Supervised model trained. Performance: {'accuracy': 1.0, 'precision': 1.0, 'recall': 1.0, 'f1': 1.0, 'training_samples': 10, 'validation_samples': 2}
+2025-08-11 14:30:14,962 - INFO - Performance metrics saved successfully
+2025-08-11 14:30:18,027 - INFO - Retraining completed successfully: {'accuracy': 1.0, 'precision': 1.0, 'recall': 1.0, 'f1': 1.0, 'training_samples': 10, 'validation_samples': 2}
+2025-08-11 14:30:29,735 - INFO - Generated 200 sample transactions
+2025-08-11 14:30:34,876 - INFO - Analysis completed: 200 transactions, 116 anomalies detected
+2025-08-11 14:30:49,453 - INFO - Selected file: /home/cyberguard/Desktop/CyberGuard/fraud_detection_system/ sample_transactions.csv
+2025-08-11 14:30:51,080 - INFO - File validation successful: 50 transactions
+2025-08-11 14:31:05,103 - INFO - Analysis completed: 50 transactions, 5 anomalies detected
+2025-08-11 15:16:17,555 - INFO - Initialized Isolation Forest model
+2025-08-11 15:16:17,556 - INFO - Feedback processor started
+2025-08-11 15:16:18,257 - INFO - Model loaded from /home/cyberguard/Desktop/CyberGuard/fraud_detection_system/models/fraud_detector_current.pkl
+2025-08-11 15:16:18,289 - INFO - Application initialized successfully
+2025-08-11 15:16:24,440 - INFO - Generated 100 sample transactions
+2025-08-11 15:16:28,471 - INFO - Analysis completed: 100 transactions, 100 anomalies detected
+2025-08-11 15:16:42,999 - INFO - Selected file: /home/cyberguard/Desktop/CyberGuard/fraud_detection_system/ sample_transactions.csv
+2025-08-11 15:16:44,541 - INFO - File validation successful: 50 transactions
+2025-08-11 15:16:50,709 - INFO - Analysis completed: 50 transactions, 50 anomalies detected
+2025-08-11 15:19:45,238 - INFO - Feedback queued for transaction T0004: incorrect
+2025-08-11 15:19:48,239 - INFO - Feedback queued for transaction T0004: correct
+2025-08-11 15:19:51,348 - INFO - Feedback queued for transaction T0004: incorrect
+2025-08-11 15:22:28,644 - INFO - Initialized Isolation Forest model
+2025-08-11 15:22:28,645 - INFO - Feedback processor started
+2025-08-11 15:22:29,204 - INFO - Model loaded from /home/cyberguard/Desktop/CyberGuard/fraud_detection_system/models/fraud_detector_current.pkl
+2025-08-11 15:22:29,245 - INFO - Application initialized successfully
+2025-08-11 15:22:35,498 - INFO - Selected file: /home/cyberguard/Desktop/CyberGuard/fraud_detection_system/ sample_transactions.csv
+2025-08-11 15:22:36,574 - INFO - File validation successful: 50 transactions
+2025-08-11 15:22:40,429 - INFO - Analysis completed: 50 transactions, 29 anomalies detected
+2025-08-11 15:23:15,158 - INFO - Feedback queued for transaction T0017: incorrect
+2025-08-11 15:23:26,519 - INFO - Feedback queued for transaction T0003: incorrect
+2025-08-11 15:23:35,366 - INFO - Feedback queued for transaction T0003: incorrect
+2025-08-11 15:23:45,430 - INFO - Feedback queued for transaction T0003: correct
+2025-08-11 15:23:48,270 - INFO - Feedback queued for transaction T0003: incorrect
+2025-08-11 15:24:08,638 - INFO - Feedback queued for transaction T0003: incorrect
+2025-08-11 15:24:32,966 - INFO - Feedback queued for transaction T0003: incorrect
+2025-08-11 15:42:31,520 - INFO - Initialized Isolation Forest model
+2025-08-11 15:42:31,521 - INFO - Feedback processor started
+2025-08-11 15:42:32,073 - INFO - Model loaded from /home/cyberguard/Desktop/CyberGuard/fraud_detection_system/models/fraud_detector_current.pkl
+2025-08-11 15:42:32,074 - INFO - Application initialized successfully
+2025-08-11 15:42:38,454 - INFO - Selected file: /home/cyberguard/Desktop/CyberGuard/fraud_detection_system/ sample_transactions.csv
+2025-08-11 15:42:39,811 - INFO - File validation successful: 50 transactions
+2025-08-11 15:42:42,199 - INFO - Analysis completed: 50 transactions, 29 anomalies detected
+2025-08-11 15:42:58,835 - INFO - Feedback queued for transaction T0003: incorrect
+2025-08-11 15:43:55,501 - INFO - Feedback queued for transaction T0003: correct
+2025-08-11 15:44:46,425 - INFO - Feedback queued for transaction T0010: correct
+2025-08-11 15:45:00,250 - INFO - Feedback queued for transaction T0010: incorrect
+2025-08-11 15:45:03,954 - INFO - Feedback queued for transaction T0003: incorrect
+2025-08-11 15:45:29,298 - INFO - Feedback queued for transaction T0013: correct
+2025-08-11 15:51:57,572 - INFO - Feedback queued for transaction T0006: incorrect
+2025-08-11 15:52:13,323 - INFO - Feedback queued for transaction T0006: correct
+2025-08-11 16:13:56,372 - INFO - Initialized Isolation Forest model
+2025-08-11 16:13:56,373 - INFO - Feedback processor started
